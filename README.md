@@ -5,6 +5,11 @@ Sécurisation de l'accès distant à un commutateur : chiffrement des mots de pa
 ## Table d'adressage
 ![Image Alt](https://github.com/richmondklab/configurer_SSH/blob/main/Table%20d'adressage.png?raw=true).
 
+
+
+
+ ![Image Alt](https://github.com/richmondklab/configurer_SSH/blob/main/Topologie%20cisco.png?raw=true)
+
 ## Objectifs
 
 1. Sécuriser les mots de passe
