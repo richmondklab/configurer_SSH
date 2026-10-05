@@ -3,11 +3,7 @@
 Sécurisation de l'accès distant à un commutateur : chiffrement des mots de passe, remplacement de Telnet par SSH.
 
 ## Table d'adressage
-
-| Appareil | Interface    | Adresse IP  | Masque de sous-réseau |
-|----------|--------------|-------------|-----------------------|
-| S1       | VLAN 1       | 10.10.10.2  | 255.255.255.0         |
-| PC1      | Carte réseau | 10.10.10.10 | 255.255.255.0         |
+![Image Alt](https://github.com/richmondklab/configurer_SSH/blob/main/Table%20d'adressage.png?raw=true).
 
 ## Objectifs
 
