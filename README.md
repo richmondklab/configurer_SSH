@@ -63,7 +63,7 @@ S1(config-line)# end
    PC> telnet 10.10.10.2
    ```
 
-   La connexion doit échouer.
+   La connexion échoue.
 
 2. Se connecter en SSH (l'option `-l` est la lettre L) :
 
@@ -80,7 +80,7 @@ S1(config-line)# end
    S1# copy running-config startup-config
    ```
 
-> En cas d'erreur ou de perte d'accès à S1, éteindre puis rallumer S1 (la configuration sauvegardée à la Partie 1 est rechargée) et reprendre à la Partie 1.
+> 
 
 ## Commandes de vérification utiles
 
